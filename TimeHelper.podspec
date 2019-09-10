@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TimeHelper"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "时间转换"
 
   # This description is used to generate tags and improve search results.
